@@ -33,7 +33,7 @@ def transfer_ach_file():
 
 def generate_ach_file():
     # Generate the ACH file content (example)
-    ach_content = "Your ACH file content here"
+    ach_content = "I'm an example ACH file :D"
 
     # Save the ACH file
     file_path = "sample.ach"
