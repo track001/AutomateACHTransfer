@@ -17,7 +17,7 @@ This project automates the transfer of ACH (Automated Clearing House) files to a
 ## Usage
 
 1. Configure the SSH connection details and remote directory in the code.
-2. Run the script: `python main.py`
+2. Run the script: `python main.py`.
 3. The script will generate a sample ACH file and transfer it to the specified remote server.
 4. Monitor the console output for the status of the ACH file transfer.
 
